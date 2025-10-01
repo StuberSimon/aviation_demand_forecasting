@@ -1,0 +1,8 @@
+The following models have been used for forecast_plot:
+2182,3707,3528,3681,3478,3550,3800,3639,3674,3725,3731,3738,2182,2253,3664,3652,3736,3539,3715,3505,3748,3624,3522,3580,3657,3569
+The best model, used to create the single prediction:
+2182
+
+The average impact plot has been created with the model 4605.
+
+The imput_size_hmape plot has been created with the whole range of models.
